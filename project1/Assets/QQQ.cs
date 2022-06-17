@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class QQQ : MonoBehaviour
 {
+    int b;
     // Start is called before the first frame update
     void Start()
     {
